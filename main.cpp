@@ -15,10 +15,10 @@ cin >> a >> b >> c;
     Rettangolo= a*b;
     Trapezio= ((a+b)*c)/2;
     cout << "Calcolo area:" << endl;
-    cout <<"Area del triangolo=" << Triangolo << endl;
-    cout << "Area del quadrato=" << Quadrato << endl;
-    cout << "Area del rettangolo=" << Rettangolo << endl;
-    cout << "Area del trapezio=" << Trapezio << endl;
+    cout  << Triangolo << endl;
+    cout  << Quadrato << endl;
+    cout << Rettangolo << endl;
+    cout  << Trapezio << endl;
     return 0;
 
 
