@@ -2,9 +2,9 @@
 using namespace std;
 
 int main(){
-    float a=0;
-    float b=0;
-    float c=0;
+    float a;
+    float b;
+    float c;
     float Triangolo, Quadrato, Rettangolo, Trapezio;
     cout << "Insersci tre valori" << endl;
 
