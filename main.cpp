@@ -9,11 +9,12 @@ int main(){
     cout << "Insersci tre valori" << endl;
 
 cin >> a >> b >> c;
-
+    
     Triangolo= (a*b)/2;
     Quadrato= a*a;
     Rettangolo= a*b;
     Trapezio= ((a+b)*c)/2;
+    cout << "Calcolo area:" << endl;
     cout <<"Area del triangolo=" << Triangolo << endl;
     cout << "Area del quadrato=" << Quadrato << endl;
     cout << "Area del rettangolo=" << Rettangolo << endl;
